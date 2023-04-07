@@ -9,9 +9,6 @@ $ apt update -y && apt upgrade -y
 $ apt install git -y
 $ apt install python -y
 $ apt install figlet -y
-$ git clone https://github.com/Spyzieboy/telegram-hack.git
-$ cd telegram-hack
-$ pip install -r requirements.txt
 $ pip install telegram
 $ pip install python-telegram-bot
 $ pip install asyncio
